@@ -1,0 +1,10 @@
+C:\Users\ANANDAN K\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\ANANDAN K\source\repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\ANANDAN K\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.Form1.resources
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\ANANDAN K\source\repos\Stock\Stock\obj\Debug\Stock.pdb
